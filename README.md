@@ -3,6 +3,9 @@
 
 project具体要求见 http://inpluslab.sysu.edu.cn/dsa2016/pdf/Project1.pdf
 
+---
+
+
 ###关键点
 #### 输出
 - 第一项系数为正的话不需要输出+号，其他项系数为正的话需要输出+号
@@ -19,6 +22,6 @@ project具体要求见 http://inpluslab.sysu.edu.cn/dsa2016/pdf/Project1.pdf
 - 系数为0的不插入
 - 查找插入位置
 - 指数相同的项合并，系数相加
-	1. 系数变为0时释放结点。
+	- 系数变为0时释放结点。
 - 指数为新时插入项
 
